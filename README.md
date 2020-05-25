@@ -1,6 +1,11 @@
 # NYTimesFlutterWeb
 Make NYTimes Website using FlutterWebuilder
 
+# Helpful Command
+> flutter create <project_name>: Create new flutter project
+> flutter devices: Check Devices for Flutter to use
+> flutter run -d chrome: Run the project using device with name 'chrome', aka run this project
+
 # Get your NYTimes API Key
 > Create your account
 > on the 'Dev Dashboard', 
